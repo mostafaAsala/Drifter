@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c63a8e8f34bb5447b0cf9c9cfc581b2, type: 3}
+  m_Name: MuscleCar_1969
+  m_EditorClassIdentifier: 
+  Unlock: 2
+  Price: 0
+  CompleteTrackForUnlock: {fileID: 11400000, guid: f9e0e6de62358fa4d850a4208a22a894,
+    type: 2}
+  ShowProperty: 1
+  m_CarCaption: MuscleCar 1969
+  m_CarPrefabForSelectMenu: {fileID: 114604884915159312, guid: 7ea704b1b93c5f5479afa27b4364cc8f,
+    type: 2}
+  m_CarPrefab: {fileID: 114547505315873450, guid: 771c67a3bcfd2e845a89c1fc3bbe5047,
+    type: 2}
+  m_AvailibleColors:
+  - m_Color: {r: 1, g: 0.23595506, b: 0, a: 1}
+    m_Smoothness: 0.3
+  - m_Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Smoothness: 0
+  - m_Color: {r: 0, g: 0, b: 0, a: 1}
+    m_Smoothness: 1
+  - m_Color: {r: 1, g: 0, b: 0, a: 1}
+    m_Smoothness: 0.6
+  - m_Color: {r: 0, g: 0.41375422, b: 1, a: 1}
+    m_Smoothness: 0.6
+  - m_Color: {r: 0, g: 0.5188679, b: 0.017342342, a: 1}
+    m_Smoothness: 0.5
+  - m_Color: {r: 0.34696922, g: 0, b: 0.5176471, a: 1}
+    m_Smoothness: 1
+  m_Description: Very powerful, but poorly controlled car, only an experienced driver
+    can cope with it.

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/AttentionScene.unity
+    guid: 777c336ab6dc06b4da54be0ee9435aa4
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/MainMenuScene.unity
+    guid: b8c98a3ff806355449e8a355b2fe7df7
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/Regimes/DriftRegimeScene.unity
+    guid: 03a646b2861514d48a6a642744db3d64
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/Regimes/RaceRegimeScene.unity
+    guid: 6041af57b36d04d478626ba10727273e
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/RaceTrack.unity
+    guid: 4854a3fd49b9bfc4d92015809f70203a
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/PortForDrift.unity
+    guid: 6073bca69f4b15d42a46ca19a192b549
+  - enabled: 1
+    path: Assets/ACC_Lite/Scenes/PortForRace.unity
+    guid: 0c3de3b7e6c8eb64fa4ff3ff2d3de403
+  - enabled: 1
+    path: Assets/Scenes/Track #1 - Copy.unity
+    guid: d2492b01ce61e404f86d034b10015849
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 3715afccc9af65f4eb562ccb3e30b2b1
+  m_configObjects: {}

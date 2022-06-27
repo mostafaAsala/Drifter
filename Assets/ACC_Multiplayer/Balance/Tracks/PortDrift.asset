@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885ed35712e248f4fb2c3bedccffae89, type: 3}
+  m_Name: PortDrift
+  m_EditorClassIdentifier: 
+  Unlock: 1
+  Price: 2000
+  CompleteTrackForUnlock: {fileID: 11400000, guid: f9e0e6de62358fa4d850a4208a22a894,
+    type: 2}
+  ShowProperty: 1
+  m_TrackName: Port
+  m_TrackIcon: {fileID: 21300000, guid: 1ab900b1659f53d4ca16ba98ad458c17, type: 3}
+  m_SceneName: PortForDrift
+  m_GameController: {fileID: 114623672003860514, guid: 42806ebe036da2547bc8c2cdde159ed6,
+    type: 2}
+  m_LapsCount: 4
+  m_AIsCount: 3
+  m_RegimeSettings: {fileID: 11400000, guid: 23f28db9e4ec4e043a2cea2ee18120e0, type: 2}
+  m_MoneyForFirstPlace: 1000
