@@ -273,7 +273,7 @@ public class MeshPainter :MonoBehaviour
 		Material.SetTexture (ControlTextureName, ControlTexture);
 	}
 
-	const string ControlTexturePath = "FullDrift/MeshPainter/";
+	const string ControlTexturePath = "ACC_Multiplayer/MeshPainter/";
 	const string ControlTextureName = "_ControlTex";
 	const string Texture0Name = "_Tex0";
 	const string Texture1Name = "_Tex1";

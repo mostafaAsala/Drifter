@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: GroundForLowQuality
   m_Shader: {fileID: 10703, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _NORMALMAP
@@ -23,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ControlTex:
-        m_Texture: {fileID: 2800000, guid: 8ad5e4a14b5771b44985094c2a0b478c, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6d14c6792d77a43418be50c62eb6e30a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -60,19 +61,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Tex0:
         m_Texture: {fileID: 2800000, guid: 451ead0c27829c94e8fbf0734a61cffa, type: 3}
-        m_Scale: {x: 150, y: 150}
+        m_Scale: {x: 200, y: 200}
         m_Offset: {x: 0, y: 0}
     - _Tex1:
-        m_Texture: {fileID: 2800000, guid: f49c3d5b17735a14a9f23537edf1506f, type: 3}
-        m_Scale: {x: 150, y: 150}
+        m_Texture: {fileID: 2800000, guid: 8955117bd9e732f43ad5961c84e6ad98, type: 3}
+        m_Scale: {x: 200, y: 200}
         m_Offset: {x: 0, y: 0}
     - _Tex2:
-        m_Texture: {fileID: 2800000, guid: 8955117bd9e732f43ad5961c84e6ad98, type: 3}
-        m_Scale: {x: 150, y: 150}
+        m_Texture: {fileID: 2800000, guid: f49c3d5b17735a14a9f23537edf1506f, type: 3}
+        m_Scale: {x: 200, y: 200}
         m_Offset: {x: 0, y: 0}
     - _Tex3:
         m_Texture: {fileID: 2800000, guid: f3fb135d6520ce0478c0c2fe39ee641b, type: 3}
-        m_Scale: {x: 150, y: 150}
+        m_Scale: {x: 200, y: 200}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
@@ -94,3 +95,4 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
