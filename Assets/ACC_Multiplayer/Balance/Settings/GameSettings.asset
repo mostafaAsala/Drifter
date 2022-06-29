@@ -26,6 +26,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a4235d822ad54f0409dec4361d4472bd, type: 2}
   - {fileID: 11400000, guid: d2711cb9da05c9c4c88786140a860228, type: 2}
   - {fileID: 11400000, guid: 64dddcc856107814889a0009b0b4d3e7, type: 2}
+  - {fileID: 11400000, guid: ba166f5b2b40b4642bce547c8da80244, type: 2}
   m_BotNames:
   - Mason(b)
   - Emma(b)
