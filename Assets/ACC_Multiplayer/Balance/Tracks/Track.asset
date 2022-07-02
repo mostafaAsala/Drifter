@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885ed35712e248f4fb2c3bedccffae89, type: 3}
+  m_Name: Track
+  m_EditorClassIdentifier: 
+  Unlock: 0
+  Price: 0
+  CompleteTrackForUnlock: {fileID: 0}
+  ShowProperty: 0
+  m_TrackName: Track
+  m_TrackIcon: {fileID: 0}
+  m_SceneName: Track
+  m_GameController: {fileID: 339888498937514476, guid: 396a44dd891c1e04bbbabe5d551f215d,
+    type: 3}
+  m_LapsCount: 3
+  m_AIsCount: 3
+  m_RegimeSettings: {fileID: 11400000, guid: 23f28db9e4ec4e043a2cea2ee18120e0, type: 2}
+  m_MoneyForFirstPlace: 1000

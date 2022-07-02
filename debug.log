@@ -1,0 +1,5 @@
+[0702/023047.786:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(77,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(99,10-42): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0702/030040.586:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
